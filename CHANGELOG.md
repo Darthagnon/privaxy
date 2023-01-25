@@ -1,5 +1,28 @@
 # Changelog
 
+## v0.5.2
+
+- Wildcards are allowed in configurable exclusions.
+
+## v0.5.1
+
+- Apple build of desktop app is now notarized.
+
+## v0.5.0
+
+- Add builds for apple silicon
+
+## v0.4.0
+
+- Now ships as a desktop gui app.
+- A new "nogui" binary is shipped alongside the gui version.
+- Fixes an issue where cosmetic filtering may not have worked anymore when faulty rules existed in filter lists.
+
+## v0.3.1 (December 4, 2022)
+
+- Update ublock resources.
+- Bump dependencies.
+
 ## v0.3.0 (June 21, 2022)
 
 - Make use of system resolver.
